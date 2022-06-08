@@ -4,6 +4,7 @@ That which translates Laiqbun
 ## Requirements:
 python packages: `requests`
 ## Usage:
+`Ctrl+C` to stop the script
 ```
 -d    enable debug -> print additional information
 -s    simplify output -> remove parenthesis 
