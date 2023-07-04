@@ -1,6 +1,9 @@
 # taqvuia
 That which translates Laiqbun
 <br>
+Laiqbun is a constructed language created by Roxy And. 
+<br>You can find out more about it on this site: https://ampersandia.net/roxy/#laiqbun
+<br>
 ## Requirements:
 python packages: `requests`
 ## Usage:
